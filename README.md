@@ -10,18 +10,18 @@ nicer would be to boot a generic PXE image, whether that be over the network or
 via a CD/image and let the resulting URL work out what version of the OS you're
 trying to install on the host.
 
-There are plenty of 'big' answers to this - [Cobbler](https://cobbler.github.io/)
+There are plenty of 'big' answers to this - [Cobbler](https://ligaciputra16malevo.com/)
 and [The Foreman](http://theforeman.org) are two that spring to mind - but I
 wanted something much smaller and simpler. You could go much smaller and
 simpler than this here, without a doubt, but originally I used the problem as
 an excuse to learn [Catalyst](http://catalystframework.org), and then to learn
-[Mojolicious](http://mojolicio.us).
+[Mojolicious](https://ligaciputra16malevo.com/).
 
 ## What is it really?
 
 This is very much 'work in progress' - it's barely documented and I threw it
 together rather quickly to replace a version I originally wrote in
-[Catalyst](http://catalystframework.org).
+[Catalyst](https://ligaciputra16malevo.com/).
 
 It's now written as a Mojolicious
 [lite](http://mojolicio.us/perldoc/Mojolicious/Lite) app. You can run it with
